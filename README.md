@@ -1,1 +1,1 @@
-# Basic coading practice for improving problem solving skills. 
+# Basic coading practice for improving coading and problem solving skills. 
